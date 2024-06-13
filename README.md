@@ -8,7 +8,8 @@ l'accomplissement des objectifs</h3>
 - 👨‍💻 Mon Portfolio [https://tassadit-maghni.vercel.app/](https://tassadit-maghni.vercel.app/)
 
 - 📫 Me contacter **maghni.tassadit@gmail.com**
-
+  
+<h3 align="left">Réseaux sociaux:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tassadit-maghni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tassadit maghni" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100078085666946" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tassadit maghni" height="30" width="40" /></a>
